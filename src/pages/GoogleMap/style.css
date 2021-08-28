@@ -1,0 +1,42 @@
+input {
+    outline: none;
+    padding: 7px;
+    border: 1px solid #f5bf7a;
+    border-radius: 6px;
+    box-shadow: 2px 2px 5px rgba(211, 211, 211, 0.19);
+    min-width: 180px;
+}
+
+input:focus {
+    outline: none;
+    border: 1px solid grey;
+}
+
+b {
+    display: block;
+}
+
+
+#form {
+    flex-basis: 500px;
+    box-shadow: 2px 2px 16px rgba(211, 211, 211, 0.42);
+    border: 1px solid rgba(211, 211, 211, 0.42);
+    border-radius: 10px;
+    margin-bottom: 35px;
+    margin-left: 20px;
+}
+
+.input {
+    width: 50%;
+}
+
+.waypoints-block {
+    padding: 10px 30px;
+    box-shadow: 2px 2px 16px rgba(211, 211, 211, 0.42);
+    border: 1px solid rgba(211, 211, 211, 0.42);
+    border-radius: 10px;
+}
+
+.waypoints {
+    padding: 5px;
+}
